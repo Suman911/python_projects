@@ -1,2 +1,0 @@
-"D:\github\python_projects\DashBoard\Scripts\activate.bat"
-. 'D:\github\python_projects\DashBoard\Scripts\Activate.ps1'
